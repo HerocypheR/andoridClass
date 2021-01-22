@@ -1,0 +1,17 @@
+[
+    {
+      "filmAdi": "Terminator 2",
+      "filmYil": "1991",
+      "filmThumb": "https://thumbsnap.com/i/9ebSE9JY.mp4"
+    },
+    {
+      "filmAdi": "Back To The Future",
+      "filmYil": "1985",
+      "filmThumb": "https://thumbsnap.com/i/NACAT1jY.mp4"
+    },
+    {
+      "filmAdi": "Matrix",
+      "filmYil": "1999",
+      "filmThumb": "https://thumbsnap.com/i/vuxEBV3C.mp4"
+    }
+  ]
