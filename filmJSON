@@ -1,4 +1,5 @@
-[
+{
+"data" : [
     {
       "filmAdi": "Terminator 2",
       "filmYil": "1991",
@@ -14,4 +15,5 @@
       "filmYil": "1999",
       "filmThumb": "https://thumbsnap.com/i/vuxEBV3C.mp4"
     }
-  ]
+]
+}
